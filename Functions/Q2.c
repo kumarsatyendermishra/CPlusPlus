@@ -11,3 +11,4 @@ int main(int argc, char const *argv[])
     printf("size of long type is %ld\n", sizeof(long));
     return 0;
 }
+
